@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/stag_lemonadep.mk
+    $(LOCAL_DIR)/aosp_lemonadep.mk
 
 COMMON_LUNCH_CHOICES := \
-    stag_lemonadep-user \
-    stag_lemonadep-userdebug \
-    stag_lemonadep-eng
+    aosp_lemonadep-user \
+    aosp_lemonadep-userdebug \
+    aosp_lemonadep-eng
